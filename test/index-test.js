@@ -1,3 +1,4 @@
+expect(shout('hello")).toEqual('Hello")
 
 describe('shout(string)', function() {
   it('receives one argument and returns it in all caps', function() {
